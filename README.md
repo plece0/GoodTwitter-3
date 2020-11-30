@@ -15,4 +15,7 @@ GoodTwitter 2 doesn't use the actual old twitter UI and merely skins it. This le
 
 
 
+
+
+
 All Credit goes to Zusor for creating this, I only modded the useragent that allows the extension to work. Also thanks to R3n for fixing an issue where firefox would detect the extension as corrupt.
