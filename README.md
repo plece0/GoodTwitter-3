@@ -15,7 +15,10 @@ GoodTwitter 2 doesn't use the actual old twitter UI and merely skins it. This le
 
 
 
+# Known Issues
 
+The image viewer is broken, only displaying a coloured box. If anyone is able to fix this please post the file and I'll credit you. On some versions of Firefox twitter will display a warning saying that it can't load any further. The only way to bypass this is to use an older version of Firefox (ex: Watefox Classic, and maybe Pale Moon).
 
+---
 
 All Credit goes to Zusor for creating this, I only modded the useragent that allows the extension to work. Also thanks to R3n for fixing an issue where firefox would detect the extension as corrupt.
