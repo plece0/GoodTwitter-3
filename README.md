@@ -22,8 +22,11 @@ Firefox will warn you about an unsigned addon. I promise this addon does none of
 - Accept everything it prompts you to
 - Profit.
 
-**Do not use this extension while logged in! It won't work and will constantly bug you about an "unsupported browser.**
+**Do not use this extension while logged in! It won't work and will constantly bug you about an "unsupported browser".**
 
 ## Issues
 ### The image viewer doesn't work! It just opens a coloured box. D:
 I have no idea how to fix this. If you do, please fork this and fix it.
+
+### Twitter won't load any further than a few posts.
+This is an issue on newer versions of firefox. To fix it use an older version of Firefox or Waterfox Classic, Pale Moon, etc,.
