@@ -31,7 +31,6 @@ I have no idea how to fix this. If you do, please fork this and fix it.
 ### Twitter won't load any further than a few posts.
 This is an issue on newer versions of firefox. To fix it use an older version of Firefox or Waterfox Classic, Pale Moon, etc,.
 
-
-
+</div>
 
 *Thanks to R3n for fixing an issue where Firefox would detect the Addon as Corrupted, Full Credit to Zusor for creating the original addon.*
