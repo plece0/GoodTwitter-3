@@ -1,24 +1,29 @@
-# fixed-goodtwitter
-*Modded GoodTwitter extension that uses a different useragent to revert twitter.*
+<div align="center">
+  <h1>GoodTwitter 3 (Electric Boogaloo)</h1>
 
----
+  Make Twitter look good again.
 
-# How do I install?
+</div>
 
-Download the xpi file and it should immediately prompt you to install it. If it doesn't just drag the xpi file into your web browser from your downloads folder. On newer versions of firefox you may need to disable addon signing requirements. To do this go to about:config and set xpinstall.signatures.required to false.
-
-
-
-# Why not just use GoodTwitter 2?
-
-GoodTwitter 2 doesn't use the actual old twitter UI and merely skins it. This leads to many ui conflicts and bugs (especially on profile pages). The only real downside to using this instead is that it doesn't work logged in. So if that's important to you, just use GoodTwitter 2.
+## Content
+- [Background](#background)
+- [Installation](#installation)
+- [Issues](#issues)
 
 
+## Background
+Turns out Twitter didn't actually delete the 2014 layout like they said they did. If you use an alternate useragent it works again!
 
-# Known Issues
+## Installation
+Firefox will warn you about an unsigned addon. I promise this addon does none of the things they warn you about. :p
 
-The image viewer is broken, only displaying a coloured box. If anyone is able to fix this please post the file and I'll credit you. On some versions of Firefox twitter will display a warning saying that it can't load any further. The only way to bypass this is to use an older version of Firefox (ex: Watefox Classic, and maybe Pale Moon).
+- Download it!
+- Open the downloads folder and drag the xpi file into the Firefox window.
+- Accept everything it prompts you to
+- Profit.
 
----
+**Do not use this extension while logged in! It won't work and will constantly bug you about an "unsupported browser.**
 
-All Credit goes to Zusor for creating this, I only modded the useragent that allows the extension to work. Also thanks to R3n for fixing an issue where firefox would detect the extension as corrupt.
+## Issues
+### The image viewer doesn't work! It just opens a coloured box. D:
+I have no idea how to fix this. If you do, please fork this and fix it.
