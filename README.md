@@ -18,7 +18,9 @@ Turns out Twitter didn't actually delete the 2014 layout like they said they did
 Firefox will warn you about an unsigned addon. I promise this addon does none of the things they warn you about. :p
 
 - Download it!
-- Open the downloads folder and drag the xpi file into the Firefox window.
+- Open the downloads folder
+- Change the file extension from zip to xpi
+- Drag the xpi file into the Firefox window.
 - Accept everything it prompts you to
 - Profit.
 
