@@ -15,7 +15,6 @@
 Turns out Twitter didn't actually delete the 2014 layout like they said they did. If you use an alternate useragent it works again!
 
 ## Installation
-Firefox will warn you about an unsigned addon. I promise this addon does none of the things they warn you about. :p
 
 - Log out of twitter. (Sorry, it doesn't work while logged in)
 - Download it!
