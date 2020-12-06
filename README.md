@@ -30,9 +30,6 @@ Firefox will warn you about an unsigned addon. I promise this addon does none of
 ### The image viewer doesn't work! It just opens a coloured box. D:
 I have no idea how to fix this. If you do, please fork this and fix it.
 
-### Twitter won't load any further than a few posts.
-This is an issue on newer versions of firefox. To fix it use an older version of Firefox or Waterfox Classic, Pale Moon, etc,.
-
 
 ---
 
