@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>GoodTwitter 3 (Electric Boogaloo)</h1>
+  <h1>GoodTwitter 3</h1>
 
   Make Twitter look good again.
 
@@ -29,9 +29,12 @@ Turns out Twitter didn't actually delete the 2014 layout like they said they did
 
 - When you click on images, go to the t.co link instead of attempting to embed image.
 - When you go to twitter.com immediately redirect to twitter.com/i/moments so that you don't have to see the login page everytime.
+- Block the "unsupported browser" while logged in
+- Add an option to use a 2014 theme (square pfp's, old retweet, like icon, etc,)
+- Add an option for a dark theme
 
 
 ---
 
 
-*Thanks to R3n for fixing an issue where Firefox would detect the Addon as Corrupted, Full Credit to Zusor for creating the original addon.*
+*Thanks to R3n for fixing an issue where Firefox would detect the Addon as Corrupted, Full Credit to Zusor (and the original contributors) for creating the original addon.*
