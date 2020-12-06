@@ -26,8 +26,9 @@ Turns out Twitter didn't actually delete the 2014 layout like they said they did
 **Do not use this extension while logged in! It won't work and will constantly bug you about an "unsupported browser".**
 
 ## Issues
-### The image viewer doesn't work! It just opens a coloured box. D:
-I have no idea how to fix this. If you do, please fork this and fix it.
+### To-Do, when you click on images, go to the t.co link instead of attempting to embed image.
+
+###  When you go to twitter.com immediately redirect to twitter.com/i/moments so that you don't have to see the login page everytime.
 
 
 ---
