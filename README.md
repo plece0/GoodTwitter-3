@@ -17,9 +17,7 @@ Turns out Twitter didn't actually delete the 2014 layout like they said they did
 ## Installation
 
 - Log out of twitter. (Sorry, it doesn't work while logged in)
-- Download it!
-- Open your downloads folder
-- Drag the xpi file into the Firefox window.
+- [Download it!](https://github.com/plece0/GoodTwitter-3/releases)
 - Accept everything it prompts you to
 - Profit.
 
